@@ -1,3 +1,4 @@
 This project is divided into two parts. One is the program and another is data.
+I implement the program by Python.
 All the .csv files are files stored our data.
 I also debug the capability of querying data by scala, and it ran on the online AWS server supported by professor. However, it couldn't be downloaded and stored.
